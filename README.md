@@ -6,6 +6,9 @@
 - 📫 How to reach me (djharishharish3@gmail.com) ...
 - 😄 Ask me about tech ...
 - 📚 Constantly learning and evolving:
+### i code in
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
 
    ![LeetCode Stats](https://leetcard.jacoblin.cool/Harishoo?theme=dark&font=Murecho&ext=heatmap)
 <!---
