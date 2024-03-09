@@ -14,10 +14,10 @@
 ### IDE i use 
 <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<br/>
-###framework 
+
+### framework 
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
-<br/>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harishoo?theme=dark&font=Murecho&ext=heatmap)
 <!---
 djharish6/djharish6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
