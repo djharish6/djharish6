@@ -11,7 +11,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-### IDE i use 
+###  IDE i use 
 <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 ### framework 
