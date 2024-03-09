@@ -8,8 +8,8 @@
 - ⚡ Fun fact: ...
 ### I code in 
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Harishoo?theme=light&font=Murecho&ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harishoo?theme=dark&font=Murecho&ext=heatmap)
 <!---
 djharish6/djharish6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
