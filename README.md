@@ -6,7 +6,7 @@
 - 📫 How to reach me (djharishharish3@gmail.com) ...
 - 😄 Ask me about tech ...
 - 📚 Constantly learning and evolving:
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harishoo?theme=dark&font=Murecho&ext=heatmap)
 <!---
 djharish6/djharish6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
