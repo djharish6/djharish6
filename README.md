@@ -12,7 +12,8 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 ### IDE i use 
-<img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <br/>
 ###framework 
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
